@@ -1,2 +1,2 @@
 # MacCCAB
-Macintosh Color Classic Analog Board reverse engineered
+Reverse engineering of the Macintosh Color Classic Analog Board 
