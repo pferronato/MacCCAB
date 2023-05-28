@@ -1,5 +1,6 @@
 # MacCCAB
-Reverse engineering attempt of the Macintosh Color Classic Analog Board (AB)
+Reverse engineering attempt of the Macintosh Color Classic Analog Board (AB) model 820-0360-B
+
 
 The project is on-going, it's a long process, I dunno yet if I'll finish it.
 
