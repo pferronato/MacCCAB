@@ -11,7 +11,7 @@ Tasks:
 
 Thanks to:
 - https://powercc.org for pins and some capacitors readings
-- techniktobi for fixing some caps values
+- [techniktobi](https://github.com/TechnikTobi) for fixing some caps values
 
 ## Licence
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
